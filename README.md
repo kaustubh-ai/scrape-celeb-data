@@ -4,8 +4,8 @@
 
 - [Project Motivation](#motivation)
 - [Project Components](#components)
-  - [Encoding Images](#encode_image)
-  - [Comparing Faces](#compare_face)
+  - [Spider](#encode_image)
+  - [Download Images](#compare_face)
 - [Usage](#usage)
 - [Contribute](#contribute)
 
