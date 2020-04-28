@@ -21,7 +21,7 @@ Wish there was a project that automatically that downloads data and images about
 
 ## 2. Project Components
 
-There are three components in this project:
+There are two components in this project:
 
 <a id='encode_image'></a>
 
@@ -46,7 +46,7 @@ This file also contains code that sends the proper signal to the arduino to swit
 <a id='local'></a>
 
 Run the file `celebs_insect.py` in the folders `spiders` by typing the following command in CLI<br>
-`scrapy crawl celebs_insect`
+* `scrapy crawl celebs_insect`
 ***
 
 <a name="contribute"/>
